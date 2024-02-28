@@ -97,7 +97,8 @@ Lalu event loop mengirim response ke client.
 - Ubah jumlah thread libuv dgn pengaturan environment variable UV_THREADPOOL_SIZE.
 
 
-
+# GLOBAL ASYNC DI JS MODULES
+- Pada JavaScript, by default adalah sync, sehingga perlu menambahkan keyword async, 
 
 
 
